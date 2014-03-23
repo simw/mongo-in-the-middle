@@ -1,0 +1,28 @@
+{
+  "name": "mongo-in-the-middle",
+  "version": "0.1.0",
+  "description": "A middleware framework for wrapping mongo databases",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simw/mongo-in-the-middle.git"
+  },
+  "keywords": [
+    "mongo",
+    "middleware"
+  ],
+  "author": "Simon Wicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simw/mongo-in-the-middle/issues"
+  },
+  "dependencies": {
+    "mongodb": "~1.3.23"
+  }
+}
